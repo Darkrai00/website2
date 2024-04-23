@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Daniel</title>
+          
+        <style>
+            p {
+                background-image: url('pexels-thatguycraig000-1563356.jpg')}
+               </style>
+               
+               <style>
+                   body {background-image: url('pexels-thatguycraig000-1563356.jpg')}
+                     </style>
+               
+    </head>
+    <body>
+        <img src ="foggy-mountainous-scenery-gloomy-sky.jpg" width="1800" height="80">
+        <p>Paragraph</p>
+        <b>bold</b><i>italic</i><u>Underline</u>
+        <h1>HEADING</h1>
+        <font face ="Algerian">Daniel</font>
+        <font size ="30">Daniel</font>
+        <font color ="cyan">Daniel</font>
+       <marquee>This text will scroll from right to left</marquee>
+<marquee
+  direction="down"
+  width="500"
+  height="500"
+  behavior="alternate"
+  style="border:solid">
+  <marquee behavior="alternate">This text will bounce</marquee>
+</marquee>
+        
+        </div>
+        
+    </body>
+    
+</html>
